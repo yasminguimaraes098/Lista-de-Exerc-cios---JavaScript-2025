@@ -1,0 +1,1 @@
+alert ("Precione o botão OK para visualizar o nome da disciplina")
